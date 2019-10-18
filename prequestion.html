@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<body>
+<form class="questionForm" id="q">
+<h3> Ques:- WHAT IS THE  'U' IN THE LENS FORMULA ?</h3>
+<ul>
+<li><input type="radio" name="q" id="q1" value="a" onclick="ansid(this.id)"/> Focal length</li>
+<li><input type="radio" name="q" id="q2" value="b" onclick="ansid(this.id)"/> Image distance</li>
+<li><input type="radio" name="q" id="q3" value="c" onclick="ansid(this.id)" /> Object distance </li>
+<li><input type="radio"  name="q" id="q4" value="d" onclick="ansid(this.id)"/> Radius of curvature</li>
+</ul>
+<button class="question-btn">Sumbit</button>
+</form>
+</body>
+<style>
+.questionForm
+{
+	position: absolute;
+	margin: 10px;
+	padding: 20px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	border: 5px solid black;
+	height: 130px;
+}
+.question-btn
+{
+position: absolute;
+background: black;
+height:40px;
+width: 100px;
+color: #ccc;
+font-size: 18px;
+border-radius: 10px;
+transition: .6s;
+overflow: hidden;
+margin-bottom: 5px;
+}
+.question-btn:hover
+{
+	cursor: pointer;
+}
+</style>
+<script>
+var ansId;
+function ansid(id)
+{
+	ansId = id;
+}
+document.getElementById("q").addEventListener("submit",function(e){
+	validate();
+	e.preventDefault();
+});
+function validate()
+{
+	if(ansId ==='q3')
+	{
+		window.location = "simulator.html";
+         		
+	}
+	else{
+		alert("Answer is wrong");
+		window.location = "start.html";
+		}
+}
+</script>
+</html>

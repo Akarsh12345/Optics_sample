@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" type="text/css" href="simulator.css">
+ <meta charset="utf-8">
+  <script src="math.min.js"></script>
+<script src="plotly-1.35.2.min.js"></script>
+<script src="graph.js"></script>
+<script src="simulator.js"></script>
+</head>
+<body>
+<div class="front" id="front">
+<header>
+<div class="title">
+<h1> OPTICS </h1>
+</div>
+<div class="button">
+<a href="#" class="btn" id="convex" onclick="getID(this.id); getID2(this.id)"> CONVEX LENS </a>
+<a href="#" class="btn"  id ="concave" onclick="getID(this.id); getID2(this.id)"> CONCAVE LENS </a>
+</div>
+<form>
+<div class="form-box" id="form">
+<input class="search-field object" id="object" type="text" onfocus="this.value=''" placeholder="OBJECT DISTANCE [U]">
+<input class="search-field focal"  id="focal" type="text" onfocus="this.value=''" placeholder="FOCAL LENGTH[F]">
+<a href="#contain"><button class="click-btn" type="button" id="btn" onclick="show()" >FIND V</button>
+</a>
+</form>
+</header>
+</div>
+</div>
+<div class="container" id="contain">
+<h1 class="head" id="heading"></h1>
+<form id="form1" class="form1">
+<button type="submit" class="click-btn1" id="eq" value="" onclick="draw(); scrollby()">DRAW U vs V GRAPH</button>
+</form>
+<img  class ="gallery" id="image"><br>
+</div>
+<div class ="graph" id="graph">
+<div id="plot" class="plot"></div>
+<div class="head" id="head2"> THIS IS A CONSTANT GRAPH  AND HAVING  A CONSTANT VALUE OF 'U','V' AND 'F'.IT ONLY SHOWs A RELATIONSHIP BETWEEN 'U' AND 'V'</div>
+<a href="quiz/Quiz.html"><button class="click-btn2">  GET READY FOR QUIZ </button></a>
+</body>
+</html>
