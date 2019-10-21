@@ -72,3 +72,7 @@ When the student will enter the value of u(distance of object) and f(focal lengt
 ## 3. Flowchart :
 ![flow1](flowchart/f1.png)
 ![flow2](flowchart/f2.png)
+
+## 4. Mindmap
+![mindmap1](mindmap/mind_map.png)
+
