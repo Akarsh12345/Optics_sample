@@ -70,3 +70,5 @@ When the student will enter the value of u(distance of object) and f(focal lengt
  **v=(u*f)/(u+f)**
 
 ## 3. Flowchart :
+![flow1](flowchart/f1.png)
+![flow2](flowchart/f2.png)
