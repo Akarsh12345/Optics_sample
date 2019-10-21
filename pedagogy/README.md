@@ -1,3 +1,10 @@
+# Pedagogy (Round 1)
+
+| Discipline  | Engineering |
+| ------------- | ------------- |
+| Lab.  | Basic Physics  |
+| Experiment  | Optics  |
+
 # 1.1 FOCUS AREA:
 
 #### Optics 
