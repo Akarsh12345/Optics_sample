@@ -57,11 +57,11 @@ The image formation by convex lens and concave lens is shown in diagrams. The gr
 
 
 ## 2.6 Conclusion:
-**(i)**. WE GET IMAGE DISTANCE. 
+**(i)** WE GET IMAGE DISTANCE. 
 
-**(ii)**.WE KNOW THE NATURE OF IMAGE.
+**(ii)**WE KNOW THE NATURE OF IMAGE.
 
-**(iii)**.WE CAN SEE Graph of lens.
+**(iii)**WE CAN SEE Graph of lens.
 
 
 ## 2.7 Equations/formulas:
