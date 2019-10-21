@@ -1,7 +1,7 @@
 # PROCEDURE
 **STEP 1**:-
 ## First of all open a index.html
-![step 1](experiment/images/START1.png)
+![step 1](images/START1.png)
 
 **STEP 2** : 
 ## At the end of webpage there is button who redirect to the prequestion.html
