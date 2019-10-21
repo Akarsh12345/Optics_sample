@@ -85,3 +85,8 @@ When the student will enter the value of u(distance of object) and f(focal lengt
 
 
 ## 6. Some particular images
+### CONVEX LENS CASE LOOK LIKE THIS
+![image1](images/case1.jpg)
+### CONCAVE LENS CASE LOOK LIKE THIS
+![image2](images/case6.jpg)
+
