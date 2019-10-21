@@ -1,5 +1,5 @@
 # 1.1 FOCUS AREA: Optics 
-## 1.2 About the Experiment:lens can diverge and converge the ray of light. Whenever a ray of light fall on lens it’s  formed  real and virtual image. by the lens formula we can find the image distance.
+# 1.2 About the Experiment:lens can diverge and converge the ray of light. Whenever a ray of light fall on lens it’s  formed  real and virtual image. by the lens formula we can find the image distance.
 ### Lens formula –(1/u)+(1/v)=(1/f)
 **u= object distance**
 
@@ -57,42 +57,107 @@ d) Radius of curavature
 
 
 ## post test
-1.What is the focal length of convex lens ?
+Question 1:-**What is the Focal length of convex lens ?**
 
-a)Positive
+option1: **Positive**
 
-b)Negative
+option2:-Negative
 
-c)Zero
+option3:-Zero
 
-d)None of these
+option4:-None of the above.
 
-2.What is the focal length of concave lens?
+Question 2:-**What is the Focal length of concave lens ?**
 
-a)positive b)negative  c)zero d)none of these
+option1: Positive
 
-3.What is ‘F’ stand in lens formula ?
-a)object distance  b)image distance c)focal length d)radius of curavature
+option2:**Negative**
 
-4.What is ‘u’ stand in the lens formula ?
-a)object distance  b)image distance c)focal length d)radius of curavature
+option3:Zero
 
-5.What is the ‘V’ in the lens formula ?
-a)focal length   b)image distance c)object distance d)radius of curvature
+option4:None of the above.
 
-6.What is the ‘R’ in the lens formula ?
-a)focal length   b)image distance c)object distance d)radius of curvature
+Question 3:**What is the Nature of concave lens ?**
 
-7.What is nature of convex lens ?
-a)converging  b)diverging c)don’t know d)none of these
+option1: Converging
+
+option2:**Diverging**
+
+option3:Don't know
+
+option4:-None of the above.
+
+Question 4:**What is the Nature of convex lens ?**
+
+option1: **Converging**
+
+option2:Diverging.
+
+option3:Don't know
+
+option4:-None of the above
+
+Question 5:**What is 'F' stand in lens formula ?**
 	
-8.What is nature of concave lens ?
-a)converging  b)diverging c)don’t know d)none of these
-9. In which condition the convex lens formed image at infinite ?
-a) U=R  b)U=V  c)U=F  d)U=0
+  option1: Image distance
+	
+  option2: Object distance
+	
+  option3: **Focal length**
+	
+  option4: Radius of curvature
+  
+Question 6 :**What is 'V' stand in lens formula ?**
+	
+  option1: **Image distance**
+	
+  option2: Object distance
+	
+  option3: Focal length
+	
+  option4: Radius of curvature
+  
+Question 7 :**What is 'U' stand in lens formula ?**
+	
+  option1: Image distance
+	
+  option2: **Object distance**
+	
+  option3: Focal length
+	
+  option4: Radius of curvature
 
-10. What is the condition virtual image in convex lens ?
-a)U>R b)F<U<R  c)U<F  d)none of  these
+
+ Question 8 :**What is 'R' stand in lens formula ?**
+	
+  option1: Image distance
+	
+  option2: Object distance
+	
+  option3: Focal length
+	
+  option4:**Radius of curvature**
+	
+Question 9 :**What is the condition   image formed at infinity in convex lens?**
+	
+  option1: U=R
+	
+  option2: U=V
+	
+  option3:**U=F**
+  
+  option4: U=0
+
+Question 10 :**What is the condition  virtual image formed in  convex lens?**
+
+  option1: U>R
+  
+  option2: F<U<R
+	
+  option3:**U<F**
+	
+  option4: None of the above
+
 
 
 
