@@ -83,7 +83,7 @@ When the student will enter the value of u(distance of object) and f(focal lengt
 ## 4. Mindmap
 ![mindmap1](mindmap/mind_map.png)
 ## 5. Story board
-
+![gif](storyboard.gif)
 
 ## 6. Some particular images
 ### CONVEX LENS CASE LOOK LIKE THIS
