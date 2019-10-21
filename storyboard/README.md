@@ -57,6 +57,12 @@ The image formation by convex lens and concave lens is shown in diagrams. The gr
 
 
 ## 2.6 Conclusion:
+**(i)**.IMAGE DISTANCE 
+
+**(ii)**.NATURE OF IMAGE
+
+**(iii)**. Graph of lens
+
 
 ## 2.7 Equations/formulas:
 When the student will enter the value of u(distance of object) and f(focal length), corresponding value of v(distance of image) will be calculated according to the formula:
@@ -75,4 +81,7 @@ When the student will enter the value of u(distance of object) and f(focal lengt
 
 ## 4. Mindmap
 ![mindmap1](mindmap/mind_map.png)
+## 5. Story board
 
+
+## 6. Some particular images
