@@ -1,8 +1,0 @@
-step 1 : First of all go to the start.html("also allow blocked content if you are using Internet Explorer")
-step 2 : At the end of webpage there is button who redirect to the prequestion.html
-step 3 :  a.If you give the wrong answer you go to the start.html
-          b. If you give the right answer it direct to the simulator.html
-step 4 : So simulator work is written in the procedure of homepage
-step 5 : At the end when the graph is showing so after some point there is button "READY FOR QUIZ"
-step 6 : After attempt the quiz of 10 questions screen will show your result
-step 7 : Your experiment completed.
