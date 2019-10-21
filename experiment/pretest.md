@@ -1,4 +1,4 @@
-1.	Ques:- WHAT IS THE  'U' IN THE LENS FORMULA ?
+1. ## Ques:- WHAT IS THE  'U' IN THE LENS FORMULA ?
 
 a.	Focal length
 
